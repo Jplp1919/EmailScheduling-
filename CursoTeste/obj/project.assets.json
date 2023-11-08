@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\criatec\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\CursoTeste\\CursoTeste.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\CursoTeste\\CursoTeste.csproj",
       "projectName": "CursoTeste",
-      "projectPath": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\CursoTeste\\CursoTeste.csproj",
-      "packagesPath": "C:\\Users\\criatec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\CursoTeste\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\CursoTeste\\CursoTeste.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\CursoTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\criatec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

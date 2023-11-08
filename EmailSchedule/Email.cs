@@ -10,15 +10,17 @@ namespace EmailSchedule
 {
     internal class Email
     {
-      public void sendMail(string to, string body, string subject)
+      public void sendMail(string email, string body, string subject)
         {
             var from = "EMAIL";
             var pass = "PASSWORD";
 
-            var message = new MailMessage(to, from);
+            var message = new MailMessage(email, from);
 
             message.Subject = subject;
             message.Body = body;
+
+
 
             System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient
             {
@@ -27,7 +29,7 @@ namespace EmailSchedule
                 EnableSsl = true,
                 DeliveryMethod = System.Net.Mail.SmtpDeliveryMethod.Network,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential(to, pass)
+                Credentials = new NetworkCredential(email, pass)
             };
 
 

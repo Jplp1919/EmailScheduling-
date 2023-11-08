@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\EmailSchedule\\EmailSchedule.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\EmailSchedule\\EmailSchedule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\EmailSchedule\\EmailSchedule.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\EmailSchedule\\EmailSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\EmailSchedule\\EmailSchedule.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\EmailSchedule\\EmailSchedule.csproj",
         "projectName": "EmailSchedule",
-        "projectPath": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\EmailSchedule\\EmailSchedule.csproj",
-        "packagesPath": "C:\\Users\\criatec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criatec\\Documents\\vs projects\\CursoTeste\\EmailSchedule\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\EmailSchedule\\EmailSchedule.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\c#\\EmailScheduling-\\EmailSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\criatec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

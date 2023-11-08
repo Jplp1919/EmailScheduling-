@@ -1,0 +1,14 @@
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\bin\Debug\net6.0\CursoTeste.exe
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\bin\Debug\net6.0\CursoTeste.deps.json
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\bin\Debug\net6.0\CursoTeste.runtimeconfig.json
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\bin\Debug\net6.0\CursoTeste.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\bin\Debug\net6.0\CursoTeste.pdb
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.AssemblyInfo.cs
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\refint\CursoTeste.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.pdb
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\CursoTeste.genruntimeconfig.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\CursoTeste\obj\Debug\net6.0\ref\CursoTeste.dll

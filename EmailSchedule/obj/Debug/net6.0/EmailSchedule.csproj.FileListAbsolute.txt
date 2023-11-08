@@ -1,0 +1,14 @@
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\bin\Debug\net6.0\EmailSchedule.exe
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\bin\Debug\net6.0\EmailSchedule.deps.json
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\bin\Debug\net6.0\EmailSchedule.runtimeconfig.json
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\bin\Debug\net6.0\EmailSchedule.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\bin\Debug\net6.0\EmailSchedule.pdb
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.AssemblyInfo.cs
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\refint\EmailSchedule.dll
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.pdb
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\EmailSchedule.genruntimeconfig.cache
+C:\Users\criatec\Documents\vs projects\CursoTeste\EmailSchedule\obj\Debug\net6.0\ref\EmailSchedule.dll
